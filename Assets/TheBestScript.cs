@@ -5,7 +5,9 @@ public class TheBestScript : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        print("Yo this is script B");
+
+        print("Haha this is script A");
+
     }
 
     // Update is called once per frame
